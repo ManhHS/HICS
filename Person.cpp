@@ -1,9 +1,13 @@
 #include "Person.h"
 
 
-void Person::setName()
+
 {
-	m_nage = nage;;
+<<<<<<< HEAD
+	m_nage = nage;
+=======
+		m_nage = nage;
+>>>>>>> origin/HICS_1
 }
 
 void Person::getName()
