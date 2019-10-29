@@ -1,8 +1,7 @@
 #include "Person.h"
 
 
-
-void Person::getAge(int nage)
+void Person::setName()
 {
 	m_nage = nage;
 }
