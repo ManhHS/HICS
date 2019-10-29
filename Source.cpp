@@ -1,5 +1,6 @@
 #include<iostream>
 #include "MainFrom.h"
+
 using namespace std;
 
 int main()
