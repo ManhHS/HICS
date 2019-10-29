@@ -7,6 +7,7 @@ void Person::setAge()
 
 void Person::getName()
 {
+	name = m_name;
 }
 
 Person::Person()
