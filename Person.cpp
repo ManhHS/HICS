@@ -3,11 +3,12 @@
 
 void Person::setName()
 {
-		m_nage = nage;
+	m_nage = nage;
 }
 
 void Person::getName()
 {
+	name = m_nameHICS_1;
 }
 
 Person::Person()
